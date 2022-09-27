@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**calebomariba/calebomariba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here is what am currently working on:
 
 - 🔭 I’m currently working on  on my internship projects
 - 🌱 I’m currently learning SQL Programming, Exploratory DataAnalysis
