@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Caleb Omariba</h1>
-<h3 align="center">A passionate Data Analyst from Nairobi Kenya</h3>
+<h3 align="center">A passionate Data Analyst and Python-Backend Developer from Nairobi Kenya</h3>
 
-- 🔭 I’m currently working on [prosperloansanalysis](https://github.com/calebomariba/prosperloansanalysis)
+- 🔭 I’m currently working on [hotelapi](https://github.com/LUNYAMWIDEVS/api-hotelonline),[whatsapp-webhook](https://github.com/LUNYAMWIDEVS/whatsapp-webhook),[hooks](https://github.com/LUNYAMWIDEVS/hooks)[insurance-ai](https://github.com/LUNYAMWIDEVS/insurance-ai)
 
-- 🌱 I’m currently learning **Exploratory Data Analysis, SQL joins, Classification, Deployment and Deep learning**
 
-- 💬 Ask me about **pandas, SQL, Data analysis, Machine Learning.**
+- 🌱 I’m currently working with projects involving: **AI,Webdevelopment,CI,CD, Classification, Deployment and Deep learning**
+
+- 💬 Ask me about **Django, SQL, Data analysis, Machine Learning and Python**
 
 - 📫 How to reach me **calebomariba8@gmail.com**
 
