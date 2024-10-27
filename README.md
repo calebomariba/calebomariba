@@ -1,21 +1,72 @@
 <h1 align="center">Hi 👋, I'm Caleb Omariba</h1>
-<h3 align="center">A passionate Data Analyst and Python-Backend Developer from Nairobi Kenya</h3>
+<h3 align="center">Data Analyst & Python Backend Developer | Nairobi, Kenya</h3>
 
-- 🔭 I’m currently working on [hotelapi](https://github.com/LUNYAMWIDEVS/api-hotelonline),[whatsapp-webhook](https://github.com/LUNYAMWIDEVS/whatsapp-webhook),[hooks](https://github.com/LUNYAMWIDEVS/hooks)[insurance-ai](https://github.com/LUNYAMWIDEVS/insurance-ai)
+<p align="center">I specialize in transforming data into actionable insights and developing backend solutions that power modern applications. With a passion for AI and data, I bring strong analytical and programming skills to every project I take on.</p>
 
+---
 
-- 🌱 I’m currently working with projects involving: **AI,Webdevelopment,CI,CD, Classification, Deployment and Deep learning**
+### 🔹 About Me
 
-- 💬 Ask me about **Django, SQL, Data analysis, Machine Learning and Python**
+- 📊 **Professional Expertise**: I thrive at the intersection of data analysis, backend development, and AI. I have hands-on experience working with Python, Django, SQL, and machine learning frameworks to build data-driven solutions that solve real-world problems.
+- 💻 **Current Focus**: Projects involving **AI, Web Development, CI/CD, Classification, Deployment, and Deep Learning**
 
-- 📫 How to reach me **calebomariba8@gmail.com**
+### 🔹 Key Projects
 
-- ⚡ Fun fact **There are approximately 400,000 bytes of data for every grain of sand on earth.**
+1. **[Hotel API](https://github.com/LUNYAMWIDEVS/api-hotelonline)** – A RESTful API designed to streamline hotel booking processes.  
+   **Tech**: Django, PostgreSQL, Docker, Redis
 
-<h3 align="left">Connect with me:</h3>
+2. **[WhatsApp Webhook](https://github.com/LUNYAMWIDEVS/whatsapp-webhook)** – Automates responses on WhatsApp for customer inquiries and notifications.  
+   **Tech**: Flask, Twilio API, SQLite
+
+3. **[Hooks](https://github.com/LUNYAMWIDEVS/hooks)** – A webhook management tool for easy integration with third-party services.  
+   **Tech**: Django, Celery, RabbitMQ
+
+4. **[Insurance AI](https://github.com/LUNYAMWIDEVS/insurance-ai)** – Uses machine learning models to predict and assess insurance claims.  
+   **Tech**: Scikit-learn, Pandas, Python
+
+### 🔹 Skills
+
+**Programming & Frameworks**
+- Python (Advanced)
+- Django (Intermediate)
+- Flask (Intermediate)
+- SQL (Advanced)
+
+**Data Science & Visualization**
+- Pandas, NumPy
+- Scikit-learn, PyTorch
+- Seaborn, Matplotlib
+
+**Databases & Tools**
+- PostgreSQL, MySQL, SQLite
+- Docker, Git, CI/CD Pipelines
+
+### 📈 Featured Certifications
+- **Google Data Analytics** (Coursera)
+- **AWS Certified Solutions Architect** (AWS)
+  
+### 🔹 Fun Fact
+Did you know? **The world's data doubles every two years!** Data is everywhere, and I’m thrilled to be part of a field that turns this data into valuable insights.
+
+---
+
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/caleb-data-analyst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/caleb-data-analyst/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/caleb-data-analyst" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 🛠️ Languages and Tools:
+<p align="left">
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+</p>
