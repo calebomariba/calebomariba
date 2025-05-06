@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caleb Omariba</h1>
-<h3 align="center">Data Analyst & Python Backend Developer | Nairobi, Kenya</h3>
+<h3 align="center">Data Scientist & Python Backend Developer | Nairobi, Kenya</h3>
 
 <p align="center">I specialize in transforming data into actionable insights and developing backend solutions that power modern applications. With a passion for AI and data, I bring strong analytical and programming skills to every project I take on.</p>
 
