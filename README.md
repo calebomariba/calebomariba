@@ -27,10 +27,10 @@
 ### 🔹 Skills
 
 **Programming & Frameworks**
-- Python (Advanced)
-- Django (Intermediate)
-- Flask (Intermediate)
-- SQL (Advanced)
+- Python 
+- Django 
+- Flask 
+- SQL 
 
 **Data Science & Visualization**
 - Pandas, NumPy
