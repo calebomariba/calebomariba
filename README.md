@@ -1,10 +1,10 @@
 <div align="center">
 
-```text
-╔═══════════════════════════════════════════════════════════════╗
-║   DATA SCIENTIST  ·  ML ENGINEER  ·  AI ENGINEER             ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+                                                                       ```text
+                                      ╔═══════════════════════════════════════════════════════════════╗
+                                       ║   DATA SCIENTIST  ·  ML ENGINEER  ·  AI ENGINEER             ║
+                                      ╚═══════════════════════════════════════════════════════════════╝
+                                                                      ```
 
 # Caleb Omariba
 
@@ -136,15 +136,9 @@ Cloud (AWS)               ████████████░░░░░░
 
 <div align="center">
 
-<img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=calebomariba&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=calebomariba&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
 
-<img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebomariba&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebomariba&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
 
 </div>
 
