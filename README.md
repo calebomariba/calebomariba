@@ -30,15 +30,19 @@
 - Python 
 - Django 
 - Flask 
-- SQL 
+- SQL
+- Langchain
+- RAG
 
 **Data Science & Visualization**
 - Pandas, NumPy
 - Scikit-learn, PyTorch
-- Seaborn, Matplotlib
+- Seaborn, Matplotlib, Plotly
+- Tableau
+- Power BI
 
 **Databases & Tools**
-- PostgreSQL, MySQL, SQLite
+- PostgreSQL, MySQL, SQLite, Pinecone,ChromaDB
 - Docker, Git, CI/CD Pipelines
 - Redis, Nginx, Linux
 
