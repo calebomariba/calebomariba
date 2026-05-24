@@ -1,82 +1,135 @@
-<h1 align="center">Hi 👋, I'm Caleb Omariba</h1>
-<h3 align="center">Data Scientist & Python Backend Developer | Nairobi, Kenya</h3>
+<div align="center">
 
-<p align="center">I specialize in transforming data into actionable insights and developing backend solutions that power modern applications. With a passion for AI and data, I bring strong analytical and programming skills to every project I take on.</p>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║   DATA SCIENTIST  ·  ML ENGINEER  ·  AI ENGINEER             ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
----
+# Caleb Omariba
 
-### 🔹 About Me
+**Building intelligent systems at the intersection of data, machine learning, and production engineering.**
 
-- 📊 **Professional Expertise**: I thrive at the intersection of data analysis, backend development, and AI. I have hands-on experience working with Python, Django, SQL, and machine learning frameworks to build data-driven solutions that solve real-world problems.
-- 💻 **Current Focus**: Projects involving **AI, Web Development, CI/CD, Classification, Deployment, and Deep Learning**
+Nairobi, Kenya 🇰🇪 · Open to remote & global opportunities
 
-### 🔹 Key Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caleb-data-analyst)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/calebomariba)
 
-1. **[Hotel API](https://github.com/LUNYAMWIDEVS/api-hotelonline)** – A RESTful API designed to streamline hotel booking processes.  
-   **Tech**: Django, PostgreSQL, Docker, Redis
-
-2. **[WhatsApp Webhook](https://github.com/LUNYAMWIDEVS/whatsapp-webhook)** – Automates responses on WhatsApp for customer inquiries and notifications.  
-   **Tech**: Flask, Twilio API, SQLite
-
-3. **[Hooks](https://github.com/LUNYAMWIDEVS/hooks)** – A webhook management tool for easy integration with third-party services.  
-   **Tech**: Django, Celery, RabbitMQ
-
-4. **[Insurance AI](https://github.com/LUNYAMWIDEVS/insurance-ai)** – Uses machine learning models to predict and assess insurance claims.  
-   **Tech**: Scikit-learn, Pandas, Python
-
-### 🔹 Skills
-
-**Programming & Frameworks**
-- Python 
-- Django 
-- Flask 
-- SQL
-- Langchain
-- RAG
-
-**Data Science & Visualization**
-- Pandas, NumPy
-- Scikit-learn, PyTorch
-- Seaborn, Matplotlib, Plotly
-- Tableau
-- Power BI
-
-**Databases & Tools**
-- PostgreSQL, MySQL, SQLite, Pinecone,ChromaDB
-- Docker, Git, CI/CD Pipelines
-- Redis, Nginx, Linux
-
-### 📈 Featured Certifications
-- **Udacity Data Analytics** (Udacity)
-  
-### 🔹 Fun Fact
-Did you know? **The world's data doubles every two years!** Data is everywhere, and I’m thrilled to be part of a field that turns this data into valuable insights.
+</div>
 
 ---
 
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/caleb-data-analyst" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+## 🧠 What I Do
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
-  <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-</p>
+```python
+caleb = {
+    "roles":    ["Data Scientist", "ML Engineer", "AI Engineer", "Python Backend Dev"],
+    "focus":    ["MLOps", "LLM Applications", "RAG Pipelines", "Production ML"],
+    "location": "Nairobi, Kenya 🌍",
+    "currently_building": "Production-ready ML systems with CI/CD on AWS",
+}
+```
+
+---
+
+## ⚙️ Tech Stack
+
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### 🗄️ Data Engineering & Databases
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### 🚀 MLOps & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![ECR](https://img.shields.io/badge/Amazon_ECR-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+### 🌐 Backend Development
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+### 📊 Data Visualization & BI
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+
+---
+
+## 🏗️ Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🛂 **[US Visa Prediction](https://github.com/calebomariba/MLOPs-Production-Ready-Machine-Learning-Project)** | End-to-end MLOps pipeline with CI/CD, Docker, AWS ECR & EC2 deployment | Python, Docker, GitHub Actions, AWS, MongoDB |
+| 🏨 **[Hotel API](https://github.com/LUNYAMWIDEVS/api-hotelonline)** | RESTful API for hotel booking management | Django, PostgreSQL, Docker, Redis |
+| 🤖 **[WhatsApp Webhook](https://github.com/LUNYAMWIDEVS/whatsapp-webhook)** | Automated WhatsApp response system | Flask, Twilio API, SQLite |
+| 🔗 **[Hooks](https://github.com/LUNYAMWIDEVS/hooks)** | Webhook management for third-party integrations | Django, Celery, RabbitMQ |
+| 🛡️ **[Insurance AI](https://github.com/LUNYAMWIDEVS/insurance-ai)** | ML model for insurance claims prediction | Scikit-learn, Pandas, Python |
+
+---
+
+## 🔬 Areas of Expertise
+
+```
+Machine Learning          ████████████████████  Expert
+MLOps & CI/CD             ███████████████░░░░░  Advanced
+LLM / RAG Pipelines       ████████████████░░░░  Advanced
+Python Backend (Django)   ████████████████████  Expert
+Data Engineering          ███████████████░░░░░  Advanced
+Cloud (AWS)               ████████████░░░░░░░░  Intermediate
+```
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Caleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=calebomariba&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calebomariba&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
+</div>
+
+---
+
+## 📌 Current Focus
+
+- 🔧 Building **production-grade ML pipelines** with full MLOps lifecycle
+- 🤖 Developing **RAG-based AI applications** using LangChain + vector databases
+- ☁️ Deploying models at scale on **AWS** with automated CI/CD
+- 📦 Containerizing everything with **Docker** for reproducibility
+
+---
+
+## 📬 Let's Connect
+
+> I'm always open to collaborating on AI/ML projects, discussing MLOps architecture, or exploring data-driven solutions to real-world problems.
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caleb-data-analyst)
+
+---
+
+<div align="center">
+  <sub>⚡ "Data is not just numbers — it's the language of decision-making." · Nairobi, Kenya 🇰🇪</sub>
+</div>
